@@ -1,0 +1,235 @@
+D:\Ignatius Aldi Pradana\Dokumen Penting\Projek\P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe.config
+D:\Ignatius Aldi Pradana\Dokumen Penting\Projek\P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Properties.Resources.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\Projek\P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.csproj.GenerateResource.Cache
+D:\Ignatius Aldi Pradana\Dokumen Penting\Projek\P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormUtama.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\Projek\P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe
+D:\Ignatius Aldi Pradana\Dokumen Penting\Projek\P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.pdb
+D:\Ignatius Aldi Pradana\Dokumen Penting\Projek\P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormLogin.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\Projek\P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.exe
+D:\Ignatius Aldi Pradana\Dokumen Penting\Projek\P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.pdb
+D:\Ignatius Aldi Pradana\Dokumen Penting\Projek\P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.csprojResolveAssemblyReference.cache
+D:\Ignatius Aldi Pradana\Dokumen Penting\Projek\P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Menu.resources
+D:\MateriP3LP_Gasal1617_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe.config
+D:\MateriP3LP_Gasal1617_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe
+D:\MateriP3LP_Gasal1617_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.pdb
+D:\MateriP3LP_Gasal1617_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormLogin.resources
+D:\MateriP3LP_Gasal1617_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormUtama.resources
+D:\MateriP3LP_Gasal1617_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Menu.resources
+D:\MateriP3LP_Gasal1617_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Properties.Resources.resources
+D:\MateriP3LP_Gasal1617_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.csproj.GenerateResource.Cache
+D:\MateriP3LP_Gasal1617_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.exe
+D:\MateriP3LP_Gasal1617_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.pdb
+D:\Ignatius Aldi Pradana\Dokumen Penting\Universitas Atmajaya Yogyakarta\1. Kuliah\5.Semester V (2016-2017)\5. P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe.config
+D:\Ignatius Aldi Pradana\Dokumen Penting\Universitas Atmajaya Yogyakarta\1. Kuliah\5.Semester V (2016-2017)\5. P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe
+D:\Ignatius Aldi Pradana\Dokumen Penting\Universitas Atmajaya Yogyakarta\1. Kuliah\5.Semester V (2016-2017)\5. P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.pdb
+D:\Ignatius Aldi Pradana\Dokumen Penting\Universitas Atmajaya Yogyakarta\1. Kuliah\5.Semester V (2016-2017)\5. P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormJadwal.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\Universitas Atmajaya Yogyakarta\1. Kuliah\5.Semester V (2016-2017)\5. P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormLogin.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\Universitas Atmajaya Yogyakarta\1. Kuliah\5.Semester V (2016-2017)\5. P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormMember.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\Universitas Atmajaya Yogyakarta\1. Kuliah\5.Semester V (2016-2017)\5. P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPegawai.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\Universitas Atmajaya Yogyakarta\1. Kuliah\5.Semester V (2016-2017)\5. P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPresensiMember.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\Universitas Atmajaya Yogyakarta\1. Kuliah\5.Semester V (2016-2017)\5. P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPromo.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\Universitas Atmajaya Yogyakarta\1. Kuliah\5.Semester V (2016-2017)\5. P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Jadwal.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\Universitas Atmajaya Yogyakarta\1. Kuliah\5.Semester V (2016-2017)\5. P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Member.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\Universitas Atmajaya Yogyakarta\1. Kuliah\5.Semester V (2016-2017)\5. P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Menu.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\Universitas Atmajaya Yogyakarta\1. Kuliah\5.Semester V (2016-2017)\5. P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Presensi_Member.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\Universitas Atmajaya Yogyakarta\1. Kuliah\5.Semester V (2016-2017)\5. P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Promo.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\Universitas Atmajaya Yogyakarta\1. Kuliah\5.Semester V (2016-2017)\5. P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Properties.Resources.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\Universitas Atmajaya Yogyakarta\1. Kuliah\5.Semester V (2016-2017)\5. P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.csproj.GenerateResource.Cache
+D:\Ignatius Aldi Pradana\Dokumen Penting\Universitas Atmajaya Yogyakarta\1. Kuliah\5.Semester V (2016-2017)\5. P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.exe
+D:\Ignatius Aldi Pradana\Dokumen Penting\Universitas Atmajaya Yogyakarta\1. Kuliah\5.Semester V (2016-2017)\5. P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.pdb
+D:\Ignatius Aldi Pradana\Dokumen Penting\Universitas Atmajaya Yogyakarta\1. Kuliah\5.Semester V (2016-2017)\5. P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.csprojResolveAssemblyReference.cache
+D:\Ignatius Aldi Pradana\Dokumen Penting\Universitas Atmajaya Yogyakarta\1. Kuliah\5.Semester V (2016-2017)\5. P3LP\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.PresensiMember.resources
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe.config
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.pdb
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormJadwal.resources
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormLogin.resources
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormMember.resources
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPegawai.resources
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPresensiInstruktur.resources
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPresensiMember.resources
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPromo.resources
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.PresensiMember.resources
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Jadwal.resources
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Member.resources
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Menu.resources
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_PresensiInstruktur.resources
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Presensi_Member.resources
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Promo.resources
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Properties.Resources.resources
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.csproj.GenerateResource.Cache
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.exe
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.pdb
+D:\P3LP_7762\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.csprojResolveAssemblyReference.cache
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe.config
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.exe
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.pdb
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.pdb
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormJadwal.resources
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormLogin.resources
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormMember.resources
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPegawai.resources
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPresensiInstruktur.resources
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPresensiMember.resources
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPromo.resources
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.PresensiMember.resources
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Jadwal.resources
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Member.resources
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Menu.resources
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_PresensiInstruktur.resources
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Presensi_Member.resources
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Promo.resources
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Properties.Resources.resources
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.csproj.GenerateResource.Cache
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.Transaksi.resources
+C:\Users\Aldi\OneDrive\P3lp\Program TCP 09\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.csprojResolveAssemblyReference.cache
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe.config
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.exe
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.pdb
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.pdb
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormJadwal.resources
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormLogin.resources
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormMember.resources
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPegawai.resources
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPresensiInstruktur.resources
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPresensiMember.resources
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPromo.resources
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.PresensiMember.resources
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.Transaksi.resources
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Jadwal.resources
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Member.resources
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Menu.resources
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_PresensiInstruktur.resources
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Presensi_Member.resources
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Promo.resources
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Properties.Resources.resources
+D:\MateriP3LP_Gasal1617_7762\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.csproj.GenerateResource.Cache
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe.config
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.pdb
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormJadwal.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormLogin.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormMember.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPegawai.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPresensiInstruktur.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPresensiMember.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPromo.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.PresensiMember.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.Transaksi.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Jadwal.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Member.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Menu.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_PresensiInstruktur.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Presensi_Member.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Promo.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Properties.Resources.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.csproj.GenerateResource.Cache
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.exe
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.pdb
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.CetakStrukTransaksi.resources
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe.config
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.exe
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.pdb
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.pdb
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.csprojResolveAssemblyReference.cache
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.CetakStrukTransaksi.resources
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormJadwal.resources
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormLogin.resources
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormMember.resources
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPegawai.resources
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPresensiInstruktur.resources
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPresensiMember.resources
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPromo.resources
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.PresensiMember.resources
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.Transaksi.resources
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Jadwal.resources
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Member.resources
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Menu.resources
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_PresensiInstruktur.resources
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Presensi_Member.resources
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Promo.resources
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Properties.Resources.resources
+D:\MateriP3LP_Gasal1617_7762\TCP 11\Program TCP 10\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.csproj.GenerateResource.Cache
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe.config
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.exe
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.pdb
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.pdb
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.CetakStrukTransaksi.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormJadwal.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormLogin.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormMember.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPegawai.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPresensiInstruktur.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPresensiMember.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPromo.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.PresensiMember.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.Transaksi.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Jadwal.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Member.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Menu.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_PresensiInstruktur.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Presensi_Member.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Promo.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Properties.Resources.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.csproj.GenerateResource.Cache
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.csprojResolveAssemblyReference.cache
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe.config
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.exe
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.pdb
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.pdb
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.csprojResolveAssemblyReference.cache
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.CetakStrukTransaksi.resources
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormJadwal.resources
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormLogin.resources
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormMember.resources
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPegawai.resources
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPresensiInstruktur.resources
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPresensiMember.resources
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPromo.resources
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.PresensiMember.resources
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.Transaksi.resources
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Jadwal.resources
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Member.resources
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Menu.resources
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_PresensiInstruktur.resources
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Presensi_Member.resources
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Promo.resources
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Properties.Resources.resources
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.csproj.GenerateResource.Cache
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe.manifest
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.application
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.exe.manifest
+D:\p3lp-7762\TCP 12-Final\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.application
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe.config
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.exe
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.pdb
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe.manifest
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.application
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.exe
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\bin\Debug\Desktop_SiFUN_7762.pdb
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.CetakStrukTransaksi.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormJadwal.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormLogin.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormMember.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPegawai.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPresensiInstruktur.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPresensiMember.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.FormPromo.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.PresensiMember.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.Transaksi.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Jadwal.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Member.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Menu.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_PresensiInstruktur.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Presensi_Member.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Boundary.UC_Promo.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.Properties.Resources.resources
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.csproj.GenerateResource.Cache
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.exe.manifest
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.application
+D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Desktop_SiFUN_7762\Desktop_SiFUN_7762\obj\Debug\Desktop_SiFUN_7762.csprojResolveAssemblyReference.cache

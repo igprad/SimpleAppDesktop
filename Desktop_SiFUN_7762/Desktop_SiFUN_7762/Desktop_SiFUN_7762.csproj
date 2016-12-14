@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4C837C77-DB5C-40E7-8CF1-8CA1A79FCEFD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Desktop_SiFUN_7762</RootNamespace>
+    <AssemblyName>Desktop_SiFUN_7762</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\Ignatius Aldi Pradana\Dokumen Penting\One Drive\P3lp\TCP FINAL\Installer Desktop Sifun 7762\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>0DECF3DF35B93A28D67A98B2D4422CEBDDEDBB51</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Desktop_SiFUN_7762_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Boundary\CetakStrukTransaksi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\CetakStrukTransaksi.Designer.cs">
+      <DependentUpon>CetakStrukTransaksi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\FormJadwal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\FormJadwal.Designer.cs">
+      <DependentUpon>FormJadwal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\FormMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\FormMember.Designer.cs">
+      <DependentUpon>FormMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\FormPegawai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\FormPegawai.Designer.cs">
+      <DependentUpon>FormPegawai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\FormPresensiInstruktur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\FormPresensiInstruktur.Designer.cs">
+      <DependentUpon>FormPresensiInstruktur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\FormPresensiMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\FormPresensiMember.Designer.cs">
+      <DependentUpon>FormPresensiMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\FormPromo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\FormPromo.Designer.cs">
+      <DependentUpon>FormPromo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\PresensiMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\PresensiMember.Designer.cs">
+      <DependentUpon>PresensiMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\RptPresensiMember.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RptPresensiMember.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Boundary\Transaksi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boundary\Transaksi.Designer.cs">
+      <DependentUpon>Transaksi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\UC_Jadwal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Boundary\UC_Jadwal.Designer.cs">
+      <DependentUpon>UC_Jadwal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\UC_Member.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Boundary\UC_Member.Designer.cs">
+      <DependentUpon>UC_Member.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\UC_Menu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Boundary\UC_Menu.Designer.cs">
+      <DependentUpon>UC_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\UC_PresensiInstruktur.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Boundary\UC_PresensiInstruktur.Designer.cs">
+      <DependentUpon>UC_PresensiInstruktur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\UC_Presensi_Member.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Boundary\UC_Presensi_Member.Designer.cs">
+      <DependentUpon>UC_Presensi_Member.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boundary\UC_Promo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Boundary\UC_Promo.Designer.cs">
+      <DependentUpon>UC_Promo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\JadwalControl.cs" />
+    <Compile Include="Control\LoginControl.cs" />
+    <Compile Include="Control\MemberControl.cs" />
+    <Compile Include="Control\PegawaiControl.cs" />
+    <Compile Include="Control\PresensiControl.cs" />
+    <Compile Include="Control\PromoControl.cs" />
+    <Compile Include="Control\TransaksiControl.cs" />
+    <Compile Include="db_sifun.cs">
+      <DependentUpon>db_sifun.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="db_sifun.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>db_sifun.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\JadwalEntity.cs" />
+    <Compile Include="Entity\MemberEntity.cs" />
+    <Compile Include="Entity\PegawaiEntity.cs" />
+    <Compile Include="Entity\PresensiInstrukturEntity.cs" />
+    <Compile Include="Entity\PresensiMemberEntity.cs" />
+    <Compile Include="Entity\PromoEntity.cs" />
+    <Compile Include="Entity\RoleEntity.cs" />
+    <Compile Include="Entity\TransaksiEntity.cs" />
+    <Compile Include="Entity\UserEntity.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Boundary\CetakStrukTransaksi.resx">
+      <DependentUpon>CetakStrukTransaksi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\FormJadwal.resx">
+      <DependentUpon>FormJadwal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\FormMember.resx">
+      <DependentUpon>FormMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\FormPegawai.resx">
+      <DependentUpon>FormPegawai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\FormPresensiInstruktur.resx">
+      <DependentUpon>FormPresensiInstruktur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\FormPresensiMember.resx">
+      <DependentUpon>FormPresensiMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\FormPromo.resx">
+      <DependentUpon>FormPromo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\PresensiMember.resx">
+      <DependentUpon>PresensiMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\RptPresensiMember.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptPresensiMember.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\Transaksi.resx">
+      <DependentUpon>Transaksi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\UC_Jadwal.resx">
+      <DependentUpon>UC_Jadwal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\UC_Member.resx">
+      <DependentUpon>UC_Member.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\UC_Menu.resx">
+      <DependentUpon>UC_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\UC_PresensiInstruktur.resx">
+      <DependentUpon>UC_PresensiInstruktur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\UC_Presensi_Member.resx">
+      <DependentUpon>UC_Presensi_Member.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boundary\UC_Promo.resx">
+      <DependentUpon>UC_Promo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="db_sifun.xsc">
+      <DependentUpon>db_sifun.xsd</DependentUpon>
+    </None>
+    <None Include="db_sifun.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>db_sifun.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="db_sifun.xss">
+      <DependentUpon>db_sifun.xsd</DependentUpon>
+    </None>
+    <None Include="Desktop_SiFUN_7762_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2465.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
